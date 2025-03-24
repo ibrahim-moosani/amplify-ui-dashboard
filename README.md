@@ -4,7 +4,7 @@ A React Dashboard Admin Template built on top of Amplify UI.
 
 Live Demo: [https://amplify-ui-dashboard-demo.vercel.app/](https://amplify-ui-dashboard-demo.vercel.app/).
 
-## Amplify UI Docs: [https://ui.docs.amplify.aws/react/getting-started/introduction](https://ui.docs.amplify.aws/react/getting-started/introduction).
+//Amplify UI Docs: [https://ui.docs.amplify.aws/react/getting-started/introduction](https://ui.docs.amplify.aws/react/getting-started/introduction).
 
 ![preview](./preview.png)
 
